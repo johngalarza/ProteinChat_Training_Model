@@ -1,0 +1,6 @@
+numpy
+pandas
+biopython
+scikit-learn
+tqdm
+skl2onnx
